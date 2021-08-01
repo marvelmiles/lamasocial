@@ -7,6 +7,12 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
+  "keywords": [
+    "Private-chat-app",
+    "react-chat-app",
+    "mern-chat-app",
+    "chat-app"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
