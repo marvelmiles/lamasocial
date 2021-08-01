@@ -1,6 +1,6 @@
 # LamaSocial
 
-This project was built mainly to learn chatting system. Frontend source code was gotten from **@ wer**
+This project was built mainly to learn chatting system. Frontend source code was gotten from **@ Lama Dev**
 
 # Usage
 

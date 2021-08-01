@@ -17,6 +17,12 @@
     "timeago.js": "^4.0.2",
     "web-vitals": "^1.0.1"
   },
+  "keywords": [
+    "Private-chat-app",
+    "react-chat-app",
+    "mern-chat-app",
+    "chat-app"
+  ],
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
